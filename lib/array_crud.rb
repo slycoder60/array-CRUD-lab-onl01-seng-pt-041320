@@ -27,7 +27,7 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-array = "am"
+array = [am]
 array.index [0]
 end
 
